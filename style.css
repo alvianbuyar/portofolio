@@ -3,7 +3,7 @@ body {
   background-color: #f6f5f5;
   margin: 0;
   padding: 0;
-  font-family: Segoe UI;
+  font-family: 'Segoe UI Variable';
   box-sizing: border-box;
 }
   
@@ -248,7 +248,7 @@ li {
   color: #222222;
   padding: 10px 30px;
   border-radius: 25px;
-  font-family: Segoe UI;
+  font-family: 'Segoe UI Variable';
   font-weight: 600;
   font-size: 16px;
 }
@@ -383,7 +383,7 @@ li {
 
 .footer p {
   color: #ffffff;
-  font-family: Segoe UI;
+  font-family: 'Segoe UI Variable'
 }
 
 .contact {
