@@ -75,7 +75,7 @@ li {
 }
 
 .text-container p:nth-child(2) {
-  font-weight: bold;
+  font-weight: 800;
   font-size: 65px;
   line-height: 35px;
 }
@@ -100,7 +100,7 @@ li {
 }
 
 .titleabout-text p:nth-child(1) {
-  font-weight: bold;
+  font-weight: 800;
   color: #222222;
   font-size: 90px;
   margin-bottom: 0;
@@ -142,7 +142,7 @@ li {
 }
 
 .about-text p:nth-child(2) {
-  font-weight: bold;
+  font-weight: 800;
   font-size: 48px;
   line-height: 45px;
   margin: 0;
@@ -170,7 +170,7 @@ li {
 
 .organization-text p:nth-child(1),
 .organization-text p:nth-child(2) {
-  font-weight: bold;
+  font-weight: 800;
   font-size: 60px;
   line-height: 0px;
 }
@@ -183,7 +183,7 @@ li {
 
 .myskill-text {
   color: #222222;
-  font-weight: bold;
+  font-weight: 800;
   font-size: 60px;
   line-height: 0px;
   margin-bottom: 40px;
@@ -210,7 +210,7 @@ li {
 .myskill-centertext1 p:nth-child(1),
 .myskill-centertext2 p:nth-child(1) {
   margin: auto;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 35px;
   line-height: 45px;
 }
@@ -227,7 +227,7 @@ li {
 }
 
 .mywork-text p:nth-child(1) {
-  font-weight: bold;
+  font-weight: 800;
   font-size: 60px;
   line-height: 0px;
 }
@@ -264,7 +264,7 @@ li {
 
 .myexperience-text {
   color: #222222;
-  font-weight: bold;
+  font-weight: 800;
   font-size: 60px;
   line-height: 0px;
   margin-bottom: 80px;
@@ -292,7 +292,7 @@ li {
 .myexperience-centertext1 p:nth-child(1),
 .myexperience-centertext2 p:nth-child(1) {
   margin: auto;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 35px;
   line-height: 45px;
 }
@@ -310,6 +310,7 @@ li {
   flex-wrap: wrap;
   gap: 5px;
   justify-content: center;
+  padding: 0 50px;
 }
 
 .box-1,
@@ -347,7 +348,7 @@ li {
   color: #222222;
   font-size: 23px;
   line-height: 0px;
-  font-weight: 900;
+  font-weight: 800;
   margin-bottom: 14px;
 }
 
@@ -397,7 +398,7 @@ li {
 }
 
 .footer p:nth-child(1) {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 30px;
   line-height: 0px;
 }
@@ -506,13 +507,13 @@ li {
   }
   
   .about-text p:nth-child(1) {
-    font-size: 13px;
+    font-size: 15px;
     margin: 0;
   }
   
   .about-text p:nth-child(2) {
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 25px;
+    line-height: 25px;
     margin: 0;
   }
   
@@ -1245,9 +1246,3 @@ li {
     height: 80px;
   }
 }
-
-/* for laptop */
-@media (min-width: 992px) and (max-width: 1200px) {}
-
-/* for desktop */
-@media (min-width: 1200px) {}
