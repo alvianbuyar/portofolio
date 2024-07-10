@@ -75,7 +75,7 @@ li {
 }
 
 .text-container p:nth-child(2) {
-  font-weight: 800;
+  font-weight: 900;
   font-size: 65px;
   line-height: 35px;
 }
@@ -100,7 +100,7 @@ li {
 }
 
 .titleabout-text p:nth-child(1) {
-  font-weight: 800;
+  font-weight: 900;
   color: #222222;
   font-size: 90px;
   margin-bottom: 0;
@@ -142,7 +142,7 @@ li {
 }
 
 .about-text p:nth-child(2) {
-  font-weight: 800;
+  font-weight: 900;
   font-size: 48px;
   line-height: 45px;
   margin: 0;
@@ -170,7 +170,7 @@ li {
 
 .organization-text p:nth-child(1),
 .organization-text p:nth-child(2) {
-  font-weight: 800;
+  font-weight: 900;
   font-size: 60px;
   line-height: 0px;
 }
@@ -183,7 +183,7 @@ li {
 
 .myskill-text {
   color: #222222;
-  font-weight: 800;
+  font-weight: 900;
   font-size: 60px;
   line-height: 0px;
   margin-bottom: 40px;
@@ -227,7 +227,7 @@ li {
 }
 
 .mywork-text p:nth-child(1) {
-  font-weight: 800;
+  font-weight: 900;
   font-size: 60px;
   line-height: 0px;
 }
@@ -264,7 +264,7 @@ li {
 
 .myexperience-text {
   color: #222222;
-  font-weight: 800;
+  font-weight: 900;
   font-size: 60px;
   line-height: 0px;
   margin-bottom: 80px;
